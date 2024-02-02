@@ -1,4 +1,4 @@
-; temporarily removed the ecma inherit due to it breaking
+; inherits: ecma
 "pragma" @keyword.import
 
 ; Annotations
