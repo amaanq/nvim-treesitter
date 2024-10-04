@@ -2,7 +2,6 @@
 
 [
   "task"
-  "sub"
 ] @keyword.function
 
 "until" @keyword.repeat

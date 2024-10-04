@@ -250,9 +250,7 @@
 
 [
   "async"
-  "await"
   "exec"
-  "nonlocal"
   "pass"
   "print"
   "with"
@@ -261,7 +259,6 @@
 
 [
   "async"
-  "await"
 ] @keyword.coroutine
 
 "return" @keyword.return

@@ -229,7 +229,6 @@
   "abstract"
   (all_rows_clause)
   "continue"
-  "default"
   "extends"
   "final"
   "get"
